@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TEAM-BOMBS-HACK/AMO_ali/refs/heads/main/AMO_ali.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TEAM-BOMBS-HACK/AMO_ali/refs/heads/main/NA.lua"))()
